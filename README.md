@@ -2,6 +2,8 @@
 
 A mindful decision-making web application that helps you make choices aligned with peace, joy, simplicity, and intuition.
 
+https://goodboycat.github.io/Decision-Clarity
+
 ## Philosophy
 
 **"When a thought doesn't give peace and joy, it's the wrong decision."**
